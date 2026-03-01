@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://arvezz.github.io/autofind-releases/AutoFind_x64.appinstaller"
-	Version="2.3.0.0"
+	Version="2.3.1.0"
 	xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="com.autofind.app"
-		Version="2.3.0.0"
+		Version="2.3.1.0"
 		Publisher="CN=autofind-cer"
-		Uri="https://arvezz.github.io/autofind-releases/AutoFind_2.3.0.0_x64_Test/AutoFind_2.3.0.0_x64.msix"
+		Uri="https://arvezz.github.io/autofind-releases/AutoFind_2.3.1.0_x64_Test/AutoFind_2.3.1.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://arvezz.github.io/autofind-releases/AutoFind_2.3.0.0_x64_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
+			Uri="https://arvezz.github.io/autofind-releases/AutoFind_2.3.1.0_x64_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
 			Version="8000.675.1142.0" />
 	</Dependencies>
 	<UpdateSettings>
